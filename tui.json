@@ -1,0 +1,3 @@
+{
+    "plugin": [["opencode-skills-autocomplete", { "hotkey": "ctrl+shift+k" }]]
+}
