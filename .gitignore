@@ -1,0 +1,9 @@
+node_modules
+package.json
+package-lock.json
+bun.lock
+*.log
+.cache/
+*.local.json
+.env*
+service.json
